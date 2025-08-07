@@ -28,4 +28,7 @@ Las herramientas técnicas utilizadas para el desarrollo,documentación y contro
    GitHub Pull Request and Issues
    Live Server (para pruebas locales)
    GitLens(visualización de historial Git)
+4. HTML, CSS y JavaScript
+  .Lenguajes base para el desarrollo del sitio web.
+  .Estructura(HTML),estilos(CSS) y funcionalidad(JS) del proyeto.   
       
