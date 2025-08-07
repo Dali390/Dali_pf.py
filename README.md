@@ -30,5 +30,47 @@ Las herramientas técnicas utilizadas para el desarrollo,documentación y contro
    GitLens(visualización de historial Git)
 4. HTML, CSS y JavaScript
   .Lenguajes base para el desarrollo del sitio web.
-  .Estructura(HTML),estilos(CSS) y funcionalidad(JS) del proyeto.   
+  .Estructura(HTML),estilos(CSS) y funcionalidad(JS) del proyeto.
+5. Terminal / Línea de comandos
+  .Utilizada para ejecutar comandos Git desde el entorno local.
+  .Herramientas:
+   -Git Bash(en Windows)
+   -Terminal (en macOS o Linux)
+6. Archivo .gitignore
+   -Define qué archivos o carpetas no deben ser incluidos en le repositorio.
+   -Ejemplo: archivos temporales, de configuración loal, etc.
+
+7. README md
+   -Archivos de documentación del proyecto.
+   -Contiene:
+     Nombre del proyecto
+     Descripción
+     Integrantes del equipo
+     Imstrucciones de instalación y uso
+     Tecnologías utilizadas
+8. Licencia (LICENSE)(opcional pero recomendable)
+    -Establece los derechos de uso del código fuente.
+
+9. GitHub Desktop (opcional)
+    -Interfaz gráfica para gestionar repositorios Git y sincronizarlos con GitHub sin usas comandos.
+10. Navegador web
+    .Para acceder a GitHub, revisar el repositorio, ver GitHub Pages, etc.
+
+
+
+     Resumen del flujo de trabajo:
+    1.Crear el repositorio local con git init
+    2.Escribir y guardar el código fuente (HTML,CSS,JS)
+    3.Hacer seguimiento de cambios con git add y git commit.
+    4.Crear repositorio remoto en GitHub.
+    5.Conectar el repositorio locas con el remoto (git remote  add origin...)
+    6.Subir el proyecto a GitHub (git push).
+    7.Documentar el proyecto con README.md.
+    8.Opcional: desplegar el sitio con GitHub Pages.
+    
+
+           
+        
+        
+      
       
